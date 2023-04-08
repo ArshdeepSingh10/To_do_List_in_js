@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.colorOrenge{
+    background-color: #ff8e6f;
+}
+#button:hover{
+    background-color: #ffb7a4;
+}
+.body
+{
+    background-color: rgb(88, 222, 255);
+    border-radius: 44px;
+}
+.lis{
+  font-size: larger;
+  background-color: #41b3a3;
+  padding: 10px;
+  margin: 2px;
+    border-radius: 10px;
+}
+.del{
+    color: #ff8e6f;
+    filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.616));
+}
